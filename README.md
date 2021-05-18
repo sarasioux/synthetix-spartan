@@ -1,5 +1,7 @@
 # Synthetix Spartan NFT
 
+![Screenshot](https://raw.githubusercontent.com/sarasioux/synthetix-spartan/master/src/assets/screenshot.png)
+
 ## Overview
 
 Entry for Gitcoin Bounty:
