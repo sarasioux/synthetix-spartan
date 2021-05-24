@@ -7,6 +7,9 @@
 Entry for Gitcoin Bounty:
 https://gitcoin.co/issue/snxgrants/open-defi-hackathon/7/100025688
 
+See the live dApp in action here:
+https://synthetix-spartan.netlify.app
+
 This is a very simple game with play as follows:
 * Each player is randomly generated a fighter with strength, stamina, and speed.
 * When a new player joins, an existing player is randomly chosen for a chance to have a stat boosted.
